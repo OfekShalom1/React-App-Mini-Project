@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+}
+
+.ButtonAddMain {
+  margin-left: 30em;
+  background-color: rgb(252, 252, 165);
+}
+.ButtonUpdateUsers {
+  background-color: rgb(252, 252, 165);
+  margin-left: 5em;
+}
+.divUsers {
+  border: 4px solid black;
+}
+.ButtonDeleteUsers {
+  background-color: rgb(252, 252, 165);
+} 
+.divOtherData {
+  background-color: rgb(233, 233, 221);
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 25px;
+}
+.buttonOtherData {
+  background-color: rgb(233, 233, 221);
+}
+.TodosTitles {
+  border: 2px solid purple;
+  margin: 5px;
+}
+.MarkCompletedButton {
+  background-color: rgb(252, 252, 165);
+  
+}
+.divCompletedTrue {
+  border: 2px solid greenyellow;
+  margin: 6px;
+} 
+.divCompletedFalse {
+  background-color: rgb(238, 150, 150);
+  border: 2px solid red;
+  margin: 6px;
+}
+.TasksTodos {
+  background-color: white;
+  border: 4px solid black;
+  margin: 1em
+}
+.buttonAddTodo {
+  background-color: rgb(252, 252, 165);
+  margin-left: 5em;
+
+}
+
+.AddTodoDiv {
+  margin-right: 10em;
+}
+.buttonCancel {
+  margin-left: 20em;
+  background-color: rgb(243, 243, 102)
+}
+.buttonAddTodoTitle {
+margin-left: 2px;
+background-color: rgb(243, 243, 102)
+} 
+.addUserDiv {
+  margin-left: 20em;
+  border: 2px solid black;
+}
+.marginIn {
+  margin: 8px
+}
+.buttonAddCancelUser {
+  margin-left: 5em;
+  background-color: rgb(243, 243, 102)
+}
+.buttonAddUser {
+  background-color: rgb(243, 243, 102);
+  margin-left: 2px;
+}
+.AddNweUserInputs {
+  width: 140px;
+  height: 15px;
+}
+.Search {
+  padding-left: 10px;
+}
+.BackroundColorWhenClickID{
+  background-color: rgb(224, 170, 170);
+}
+.BackroundColorWhenClickIDFalse{
+  background-color: white;
+}
